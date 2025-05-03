@@ -5,21 +5,22 @@ This repository contains a Power BI project for analysing ambulance service data
 ## 📊 Project Overview
 
 The data visualisation and analysis in this project are intended to:
-- Understand call demand patterns (e.g., by time, location, type)
+- Understand call demand patterns
 - Evaluate response time performance
 - Identify areas with high incident density
 - Support data-driven decision making in emergency service planning
 
 ## 📁 Repository Contents
 
-- `NWAS_Data.csv` – The raw dataset used for the analysis (not included if confidential)
+- `NWAS_Sample_Data.csv` – The raw dataset used for the analysis
+- 'NWservice.sql' - The SQL commands for the analysis
 - `NWAS_PowerBI_Report.pbix` – The Power BI report file
 - `README.md` – This documentation file
 
 ## 🛠 Tools Used
 
 - **Power BI** – For data transformation, analysis, and visualisation
-- **Microsoft Excel / Power Query** – (Optional) For initial data cleaning
+- **Microsoft Excel / Power Query** – For initial data cleaning
 - **CSV file** – Main data source
 
 ## 📌 Key Insights (example placeholders)
@@ -36,7 +37,7 @@ The data visualisation and analysis in this project are intended to:
 
 ## ⚠️ Data Disclaimer
 
-This analysis is based on data from the North West Ambulance Service. Ensure proper data governance and confidentiality guidelines are followed if the dataset contains sensitive information.
+This analysis is based on data from the sample data generated for the North West Ambulance Service. 
 
 ## 📬 Contact
 
